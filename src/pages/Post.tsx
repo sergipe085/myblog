@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { posts } from '../data/posts';
-import styles from "../styles/post.module.css"
 
 export type IPost = {
     id: string;
