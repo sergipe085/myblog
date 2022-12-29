@@ -17,7 +17,7 @@ Vou tentar fazer um novo post todo dia falando sobre o que eu estudei e aprendi 
 () - Adicionar suporte a CodeBlocks <br/>
 () - Adicionar um backend (nextjs?) <br/>
 .  () - Dar like em posts <br/>
-   () - Comentar em posts <br/>
-   () - Dar like em comentarios <br/>
-   () - Comentar em comentarios <br/>
+.  () - Comentar em posts <br/>
+.  () - Dar like em comentarios <br/>
+.  () - Comentar em comentarios <br/>
 
