@@ -8,8 +8,8 @@ Vou tentar fazer um novo post todo dia falando sobre o que eu estudei e aprendi 
 
 ## Conteudos
 
-#### hello world - (https://sergipe085.github.io/personal-blog/posts/hello-world.html) <br/>
-#### test - (https://sergipe085.github.io/personal-blog/posts/test.html) <br/>
+#### refazendo o site - (https://sergipe085.github.io/myblog/#/post/2) <br/>
+#### hello world - (https://sergipe085.github.io/myblog/#/post/1) <br/>
 
 ## Roadmap
 
