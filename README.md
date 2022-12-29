@@ -16,8 +16,8 @@ Vou tentar fazer um novo post todo dia falando sobre o que eu estudei e aprendi 
 (x) - Converter automaticamente os arquivos Markdown para paginas HTML <br/>
 () - Adicionar suporte a CodeBlocks <br/>
 () - Adicionar um backend (nextjs?) <br/>
-   () - Dar like em posts
-   () - Comentar em posts
-   () - Dar like em comentarios
-   () - Comentar em comentarios
+.  () - Dar like em posts <br/>
+   () - Comentar em posts <br/>
+   () - Dar like em comentarios <br/>
+   () - Comentar em comentarios <br/>
 
