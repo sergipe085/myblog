@@ -100,5 +100,5 @@ const post3: IPost = {
 }
 
 export const posts: IPost[] = [
-    post1, post2
+    post1, post2, post3
 ].reverse();
