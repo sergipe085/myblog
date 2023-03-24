@@ -83,6 +83,22 @@ const post2: IPost = {
     ]
 }
 
+const post3: IPost = {
+    id: "3",
+    title: "Criãçao de sistemas inteligentes",
+    createdAt: new Date("12/28/2022"),
+    elements: [
+        {
+            element: "h1",
+            content: "Trabalho"
+        },
+        {
+            element: "p",
+            content: "Criei um codigo de sistemas inteligentes que e capaz de captar as expressões faciais (sejam neutro(AZUL), sorriso(LARANJA), aberto(AMARELO), surpreso(VERMELHO), grumpy(VERDE)"
+        },
+    ]
+}
+
 export const posts: IPost[] = [
     post1, post2
 ].reverse();
