@@ -8,11 +8,16 @@ Vou tentar fazer um novo post todo dia falando sobre o que eu estudei e aprendi 
 
 ## Conteudos
 
-#### hello world - (https://sergipe085.github.io/personal-blog/posts/hello-world.html) <br/>
-#### test - (https://sergipe085.github.io/personal-blog/posts/test.html) <br/>
+#### refazendo o site - (https://sergipe085.github.io/myblog/#/post/2) <br/>
+#### hello world - (https://sergipe085.github.io/myblog/#/post/1) <br/>
 
 ## Roadmap
 
 (x) - Converter automaticamente os arquivos Markdown para paginas HTML <br/>
-() - Converter automaticamente todos os arquivos MD para todas as paginas HTML <br/>
 () - Adicionar suporte a CodeBlocks <br/>
+() - Adicionar um backend (nextjs?) <br/>
+.  () - Dar like em posts <br/>
+.  () - Comentar em posts <br/>
+.  () - Dar like em comentarios <br/>
+.  () - Comentar em comentarios <br/>
+
